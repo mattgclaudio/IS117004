@@ -1,0 +1,89 @@
+/*DEVELOPER: Matthew Claudio, IS117-004, Semester, Year */
+
+
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+/*** CSS for H
+eader **/
+header {
+    margin-top: 1%;
+    margin-bottom: 2%;
+    margin-left: 1%;
+    padding-right: 2%;
+    border: 2px solid black;
+    text-align: right;
+    font-size: 150%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #80bdff;
+    width: 100%;
+    height: 19%;
+}
+
+
+
+header h3 {
+    text-align: right;
+    padding-top: 1%;
+    padding-right: 1%;
+}
+
+header img {
+    float: left;
+    height: 90px;
+    padding-left: 1%;
+
+
+
+
+section {
+    float: left;
+    width: 60%;
+    height: 31%;
+    margin-left: 1em;
+    padding-left: 1em;
+    margin-right: 2em;
+    padding-right: 2em;
+    font-size: 120%;
+
+}
+
+section img {
+    height: 31%;
+    float: right;
+}
+
+div section h3 {
+
+    padding-top: 2%;
+
+}
+
+section h2 {
+    padding-top: 4%;
+}
+
+
+aside {
+    width: 40%;
+    height: 62%;
+}
+aside img {
+    float: right;
+    padding-left: 2em;
+    padding-bottom: 1em;
+    border-left: 3em;
+    padding-right: 1em;
+    margin-right: 1em;
+    margin-left: 2em;
+}
+
+footer {
+    text-align: right;
+    margin: 2em;
+    padding: 4em;
+    border-top: 1px black solid;
+}
